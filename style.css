@@ -373,6 +373,7 @@ p {
     font-weight: 600;
     line-height: normal;
     text-transform: capitalize;
+    margin-left: -15px;
 }
 
 footer {
