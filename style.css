@@ -354,7 +354,7 @@ p {
     font-style: normal;
     font-weight: 600;
     line-height: normal;
-    
+
 
 
 }
@@ -373,4 +373,58 @@ p {
     font-weight: 600;
     line-height: normal;
     text-transform: capitalize;
+}
+
+footer {
+    background: #070211;
+    border-radius: 30px;
+}
+
+.hf-one {
+
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+
+
+}
+
+.hf-two {
+
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+
+    justify-content: flex-end;
+
+
+}
+
+
+.head-footer {
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    padding-top: 30px;
+
+}
+
+.footer-image {
+    display: block;
+    align-items: center;
+    padding: 20px 650px 20px;
+}
+
+.footer-image img {
+    width: 32px;
+    height: 42px;
+}
+
+.f-f{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 20px;
+    
 }
